@@ -27,6 +27,11 @@ Also interested in Data Science so thats in the pipeline 🚀
 
 ---
 
+### Currently Working on:
+[**Chromatico**](https://github.com/Deveesh-Shetty/Chromatico) - Chromatico is a color generator currently in progress...Lots of ideas to implement in it.
+
+---
+
 ### Recent Projects:
 
 - [**Razer-Clone**](https://razer-clone-iota.vercel.app/)
