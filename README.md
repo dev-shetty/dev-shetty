@@ -36,7 +36,7 @@ Also interested in Data Science so thats in the pipeline 🚀
 ### Recent Projects:
 
 - [**Chromatico**](https://chromatico.vercel.app) 
-- 
+
 - [**Razer-Clone**](https://razer-clone-iota.vercel.app/)
 
 - [**Rolex-Clone**](https://rolex-clone.vercel.app/)
