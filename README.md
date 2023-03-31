@@ -17,30 +17,31 @@ Also interested in Data Science so thats in the pipeline 🚀
 
 - 🚀 I’m currently learning **MERN Stack**
 
-- 👨‍💻 My Portfolio Website [https://deveesh-shetty.github.io](https://deveesh-shetty.github.io)
+- 👨‍💻 My Portfolio Website [https://deveesh.vercel.app](https://deveesh.vercel.app)
 
 - 💬 Ask me about **HTML + CSS and ReactJs**
 
 - 📫 Contact me at **deveeshshetty@gmail.com**
 
-- ⚡ Fun fact **I am not an night owl but an early bird 🐓...Surprised?**
+- ⚡ Fun fact **I am not a night owl but an early bird 🐓...Surprised?**
 
 ---
 
 ### Currently Working on:
-[**Chromatico**](https://github.com/Deveesh-Shetty/Chromatico) - Chromatico is a color generator currently in progress...Lots of ideas to implement in it.
+
+- [**Portfolio 2.0**](https://deveesh.vercel.app) - New and Updated Portfolio site built using NextJS
 
 ---
 
 ### Recent Projects:
 
+- [**Chromatico**](https://chromatico.vercel.app) 
+- 
 - [**Razer-Clone**](https://razer-clone-iota.vercel.app/)
 
 - [**Rolex-Clone**](https://rolex-clone.vercel.app/)
 
 - [**Portfolio Website**](https://deveesh-shetty.github.io/)
-
-- [**Expense Tracker**](https://github.com/Deveesh-Shetty/Expense-Tracker)
 
 ---
 
