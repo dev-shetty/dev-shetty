@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🌍, I am Deveesh Shetty</h1>
-<h2 align="center">React Developer and a second year CSE student at SCEM.</h2>
+<h2 align="center">React Developer | Open Source Enthusiast | MERN Stack 🚀</h2>
 
 ---
 
