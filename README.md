@@ -29,6 +29,7 @@ Also interested in Data Science so thats in the pipeline 🚀
 
 ### Currently Working on:
 
+- [**CSS Is Fun**](https://github.com/Deveesh-Shetty/CSS-Is-Fun) - A collection of UI snippets built using HTML, CSS and JavaScript. Your Contributions is encouraged.
 - [**MathOps**](https://github.com/Deveesh-Shetty/MathOps) - A flutter application featuring a calculator and converter with different conversion options.
 
 ---
