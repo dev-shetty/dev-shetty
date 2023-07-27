@@ -38,7 +38,7 @@ Also interested in Data Science so thats in the pipeline 🚀
 
 - [**Portfolio Website**](https://deveesh.vercel.app/)
 
-- [**Chromatico**](https://chromatico.vercel.app) 
+- [**Chromatico**](https://chromatico.vercel.app)
 
 - [**Razer-Clone**](https://razer-clone-iota.vercel.app/)
 
@@ -81,3 +81,8 @@ Also interested in Data Science so thats in the pipeline 🚀
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveesh-shetty&" alt="deveesh-shetty" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveesh-shetty&show_icons=true&locale=en&layout=compact" alt="deveesh-shetty" /></p>
+
+## Blog Posts 🖋
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
