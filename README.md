@@ -84,4 +84,5 @@ Also interested in Data Science so thats in the pipeline 🚀
 
 ## Blog Posts 🖋
 
-<!-- BLOGS-PLACEHOLDER -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

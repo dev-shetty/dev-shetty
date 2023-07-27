@@ -1,32 +1,21 @@
-name: Update README with latest blogs
-
+name: Latest blog post workflow
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */24 * * *" # Runs Every 24 Hours
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-      - name: "Checkout repository"
-        uses: actions/checkout@v2
-
-      - name: "Fetch latest blogs from Dev.to"
-        id: fetch_blogs
-        run: |
-          API_KEY=${{ secrets.DEVTO_API_KEY }}
-          USERNAME="devshetty"
-          BLOGS=$(curl -s "https://dev.to/api/articles?username=$USERNAME&per_page=3" -H "api-key: $API_KEY")
-          echo "::set-output name=blogs::$BLOGS"
-
-      - name: Update README
-        run: |
-          BLOGS="$GITHUB_WORKSPACE/${{ steps.fetch_blogs.outputs.blogs }}"
-          BLOG_CONTENT="## Latest Blog Posts\n"
-          for title in $(echo $BLOGS | jq -r '.[].title'); do
-            url=$(echo $BLOGS | jq -r --arg title "$title" '.[] | select(.title == $title) | .url')
-            BLOG_CONTENT+="\n- [$title]($url)"
-          done
-          sed -i "s|<!-- BLOGS-PLACEHOLDER -->|$BLOG_CONTENT|" README.md
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/devshetty"
+          max_post_count: 3
+          
