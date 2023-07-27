@@ -85,4 +85,7 @@ Also interested in Data Science so thats in the pipeline 🚀
 ## Blog Posts 🖋
 
 <!-- BLOG-POST-LIST:START -->
+- [Git and GitHub for Beginners - The Basics](https://dev.to/devshetty/git-and-github-for-beginners-the-basics-d3n)
+- [Contribute to Open Source as a Beginner](https://dev.to/devshetty/contribute-to-open-source-as-a-beginner-4gk8)
+- [MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/devshetty/mongodb-atlas-hackathon-2022-on-dev-1ni9)
 <!-- BLOG-POST-LIST:END -->
