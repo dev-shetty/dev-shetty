@@ -82,7 +82,7 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 ## Checkout my Blog Posts 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to GitHub Issues](https://dev.to/devshetty/what-are-github-issues-4c3p)
 - [Learn about Branching in Git](https://dev.to/devshetty/learn-about-branching-in-git-bm3)
 - [Git and GitHub for Beginners - The Basics](https://dev.to/devshetty/git-and-github-for-beginners-the-basics-d3n)
-- [Contribute to Open Source as a Beginner](https://dev.to/devshetty/contribute-to-open-source-as-a-beginner-4gk8)
 <!-- BLOG-POST-LIST:END -->
