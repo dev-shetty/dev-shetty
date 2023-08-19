@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🌍, I am Deveesh Shetty</h1>
-<h2 align="center">Frontend Developer | Open Source Enthusiast </h2>
+<h3 align="center">Frontend Developer | Open Source Enthusiast </h4>
 
 ---
 
@@ -25,6 +25,16 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 
 - ⚡ Fun fact **I am not a night owl but an early bird 🐓...Surprised?**
 
+
+<h3 align="left">You can find me on</h3>
+<p align="left">
+<a href="https://linkedin.com/in/deveesh-shetty-908539214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deveesh-shetty-908539214" height="30" width="40" /></a>
+<a href="https://twitter.com/shettydeveesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shettydeveesh" height="30" width="40" /></a>
+<a href="https://codepen.io/deveesh_shetty_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deveesh_shetty_12" height="30" width="40" /></a>
+<a href="https://dev.to/devshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deveeshshetty1209" height="30" width="40" /></a>
+<a href="https://hashnode.com/@deveeshshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deveeshshetty" height="30" width="40" /></a>
+</p>
+
 ---
 
 ### Currently Focussing on
@@ -49,16 +59,6 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 ```
 
 ---
-
-
-<h3 align="left">You can find me on</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deveesh-shetty-908539214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deveesh-shetty-908539214" height="30" width="40" /></a>
-<a href="https://twitter.com/shettydeveesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shettydeveesh" height="30" width="40" /></a>
-<a href="https://codepen.io/deveesh_shetty_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deveesh_shetty_12" height="30" width="40" /></a>
-<a href="https://dev.to/devshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deveeshshetty1209" height="30" width="40" /></a>
-<a href="https://hashnode.com/@deveeshshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deveeshshetty" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages, Frameworks and Tools</h3>
 <p align="left"> 
