@@ -82,7 +82,7 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 ## Checkout my Blog Posts 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to creating a Pull Request in GitHub](https://dev.to/devshetty/guide-to-creating-a-pull-request-in-github-2ef2)
+- [Creating a Pull Request in GitHub](https://dev.to/devshetty/guide-to-creating-a-pull-request-in-github-2ef2)
 - [Introduction to GitHub Issues](https://dev.to/devshetty/what-are-github-issues-4c3p)
 - [Learn about Branching in Git](https://dev.to/devshetty/learn-about-branching-in-git-bm3)
 <!-- BLOG-POST-LIST:END -->
