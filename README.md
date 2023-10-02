@@ -82,7 +82,7 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 ## Checkout my Blog Posts 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Issues for Hacktoberfest](https://dev.to/devshetty/finding-issues-for-hacktoberfest-1knd)
 - [Beyond console.log in JavaScript](https://dev.to/devshetty/beyond-consolelog-in-javascript-267f)
 - [Creating a Pull Request in GitHub](https://dev.to/devshetty/guide-to-creating-a-pull-request-in-github-2ef2)
-- [Introduction to GitHub Issues](https://dev.to/devshetty/what-are-github-issues-4c3p)
 <!-- BLOG-POST-LIST:END -->
