@@ -82,7 +82,7 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 ## Checkout my Blog Posts 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript History API](https://dev.to/devshetty/javascript-history-api-477o)
 - [CSS Art: Paneer Tikka](https://dev.to/devshetty/css-art-paneer-tikka-3p8d)
 - [Finding Issues for Hacktoberfest](https://dev.to/devshetty/finding-issues-for-hacktoberfest-1knd)
-- [Beyond console.log in JavaScript](https://dev.to/devshetty/beyond-consolelog-in-javascript-267f)
 <!-- BLOG-POST-LIST:END -->
