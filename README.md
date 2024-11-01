@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🌍, I am Deveesh Shetty</h1>
-<h3 align="center">Frontend Developer | Open Source Enthusiast </h4>
+<h3 align="center">Full Stack Developer | Open Source Enthusiast </h4>
 
 ---
 
@@ -15,13 +15,15 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 
 <br>
 
-- 🚀 I’m currently learning **Full Stack Development**
+- 🚀 A **Frontend Developer** who also does Backend
 
-- 👨‍💻 My Portfolio Website [https://deveesh.vercel.app](https://deveesh.vercel.app)
+- 📌 Currently active in [Gitlab](https://gitlab.com/devshetty12)
 
-- 💬 Ask me about **Frontend Development**
+- 👨‍💻 My Portfolio Website [https://dev.shetty.me](https://dev.shetty.me)
 
-- 📫 Contact me at **deveeshshetty@gmail.com**
+- 💬 Interested in **Web & Philosophy**
+
+- 📫 Contact me at **dev@shetty.me**
 
 - ⚡ Fun fact **I am not a night owl but an early bird 🐓...Surprised?**
 
