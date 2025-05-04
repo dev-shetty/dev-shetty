@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🌍, I am Deveesh Shetty</h1>
-<h3 align="center">Full Stack Developer | Open Source Enthusiast </h4>
+<h3 align="center">Frontend Dev, who can work on any domain</h4>
 
 ---
 
@@ -11,7 +11,7 @@ Well as you already know my name. Let me tell you something else. I started as a
 
 Always ready to collaborate on projects and work together with SOSC. Feel free to reach out on socials :)
 
-Also interested in DevOps so that's in the pipeline (no pun intended) 😉
+Working remotely at Levels.fyi 🏖️
 
 <br>
 
@@ -25,7 +25,7 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 
 - 📫 Contact me at **dev@shetty.me**
 
-- ⚡ Fun fact **I am not a night owl but an early bird 🐓...Surprised?**
+- ⚡ Fun fact ~**I am not a night owl but an early bird 🐓...Surprised?**~. I am a Night Owl now.
 
 
 <h3 align="left">You can find me on</h3>
@@ -38,27 +38,6 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 </p>
 
 ---
-
-### Currently Focussing on
-
-```
-
- ██████╗ ██████╗ ███████╗███╗   ██╗
-██╔═══██╗██╔══██╗██╔════╝████╗  ██║
-██║   ██║██████╔╝█████╗  ██╔██╗ ██║
-██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║
-╚██████╔╝██║     ███████╗██║ ╚████║
- ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝
-
-███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗
-██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝
-███████╗██║   ██║██║   ██║██████╔╝██║     █████╗
-╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝
-███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗
-╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝
-
-
-```
 
 ---
 
