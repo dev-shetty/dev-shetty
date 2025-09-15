@@ -41,9 +41,9 @@ When I'm not debugging someone else's code (probably my own), you'll find me:
 ## Recent Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Breaking down CSS positioning](https://dev.to/devshetty/breaking-down-css-positioning-32ah)
 - [Why should I cherry-pick?](https://dev.to/devshetty/why-should-i-cherry-pick-3onl)
 - [Javascript History API](https://dev.to/devshetty/javascript-history-api-477o)
-- [CSS Art: Paneer Tikka](https://dev.to/devshetty/css-art-paneer-tikka-3p8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
